@@ -2,7 +2,7 @@
 
 A modern, interactive cybersecurity portfolio built with HTML, CSS, JavaScript, and Three.js.
 
-**Live Demo:** https://your-vercel-url.vercel.app
+**Live Demo:** https://portfolio-cyber111.vercel.app/
 
 ---
 
