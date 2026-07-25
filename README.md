@@ -1,6 +1,8 @@
 # SecureProfile
 
-A modern cybersecurity portfolio website built using HTML, CSS and JavaScript.
+A modern, interactive cybersecurity portfolio built with HTML, CSS, JavaScript, and Three.js.
+
+**Live Demo:** https://your-vercel-url.vercel.app
 
 ---
 
@@ -67,10 +69,7 @@ SecureProfile/
 │── SECURITY.md             # Security documentation and best practices
 │── PROJECT.md              # Project requirements and specifications
 │── DESIGN.md               # Design guidelines and principles
-│── TASKS.md                # Development task list
-│── PROFILE.MD              # Personal profile information
-│── images/                 # Image assets directory
-└── .windsurfrules         # Development rules and guidelines
+└── images/                 # Image assets directory
 ```
 
 ---
@@ -180,7 +179,7 @@ See `SECURITY.md` for comprehensive security documentation.
 
 ## Performance
 
-- **Lighthouse Score:** Optimized for 90+ performance score
+- **Designed with performance, responsiveness, and accessibility in mind.**
 - **Load Time:** Fast loading with minimal dependencies
 - **Optimized Assets:** Minified CSS and JavaScript
 - **Lazy Loading:** Implementable for images when added
@@ -209,22 +208,6 @@ See `SECURITY.md` for comprehensive security documentation.
 - [ ] Add PWA capabilities
 - [ ] Implement server-side form handling
 - [ ] Add multi-language support
-
----
-
-## Development Guidelines
-
-This project follows the development rules outlined in `.windsurfrules`:
-
-- Always read PROJECT.md before coding
-- Always follow DESIGN.md
-- Always update TASKS.md
-- Never remove existing functionality unless requested
-- Keep CSS modular and organized
-- Use semantic HTML
-- Write clean JavaScript
-- Test every feature before marking complete
-- Follow accessibility best practices
 
 ---
 
@@ -269,4 +252,4 @@ B.Tech in Computer Science and Engineering
 ---
 
 **Version:** 1.0.0  
-**Last Updated:** July 2024
+**Last Updated:** July 2026
